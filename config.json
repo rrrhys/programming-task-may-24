@@ -1,0 +1,9 @@
+{
+  "processingFolder": "./input",
+  "EOLSeparator": "\n",
+  "baseUrl": "http://example.net",
+  "logColumns": {
+    "IP": 0,
+    "URL": 4
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "programming-task-may-24",
+  "version": "1.0.0",
+  "description": "Programming Task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "yargs": "^17.7.2"
+  }
+}
